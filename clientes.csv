@@ -1,4 +1,5 @@
-﻿UserID;Nome;Foco
-1;Ana Silva;Investimentos
-2;Carlos Souza;Economia para Viagem
-3;Mariana Oliveira;Segurança e Poupança
+﻿UserID,Nome,Foco
+1,Ana Silva,Investimentos
+2,Carlos Souza,Viagem
+3,Mariana Oliveira,Segurança
+4,João Pedro,Generico
